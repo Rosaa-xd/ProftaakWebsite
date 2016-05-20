@@ -142,7 +142,7 @@ body {
 .footerwrapper {
 	background-color:black;
 	max-width:100vw;
-	height:150px;
+	height:175px;
 	clear:both;
 	margin:0 auto;
 }
@@ -156,4 +156,9 @@ body {
 #Contact p {
 	font-family:Courier;
 	font-size: 12pt;
+}
+
+#Contact p a {
+	text-decoration:none;
+	color:#00FF00;
 }
